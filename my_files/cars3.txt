@@ -1,0 +1,11 @@
+Audi         	 S4 Avant Quattro                       	Wagon   	Europe	All  	49090	44446	4.2
+BMW          	 X3 3.0i                                	SUV     	Europe	All  	37000	33873	3
+BMW          	 X5 4.4i                                	SUV     	Europe	All  	52195	47720	4.4
+BMW          	 325i 4dr                               	Sedan   	Europe	Rear 	28495	26155	2.5
+BMW          	 325Ci 2dr                              	Sedan   	Europe	Rear 	30795	28245	2.5
+BMW          	 325Ci convertible 2dr                  	Sedan   	Europe	Rear 	37995	34800	2.5
+BMW          	 325xi 4dr                              	Sedan   	Europe	All  	30245	27745	2.5
+BMW          	 330i 4dr                               	Sedan   	Europe	Rear 	35495	32525	3
+BMW          	 330Ci 2dr                              	Sedan   	Europe	Rear 	36995	33890	3
+BMW          	 330xi 4dr                              	Sedan   	Europe	All  	37245	34115	3
+BMW          	 525i 4dr                               	Sedan   	Europe	Rear 	39995	36620	2.5
